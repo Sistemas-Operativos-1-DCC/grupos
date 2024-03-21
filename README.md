@@ -1,3 +1,3 @@
 # grupos
 
-Docente: Erica
+Docente: Erica Vidal, Taihú Pire
