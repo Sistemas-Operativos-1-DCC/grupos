@@ -3,8 +3,6 @@
 Docente: Erica Vidal, Taihú Pire
 =======
 
-
-=======
 Grupo 1: Fabrizio Mettini, Matias Raimundez
 
 Grupo 2: Tomás Maiza, Federico Mierez
