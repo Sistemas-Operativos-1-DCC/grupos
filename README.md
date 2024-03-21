@@ -14,4 +14,6 @@ Grupo 6: Martín Sferco (Marto), Octavio Rassi
 
 Grupo 9: Andrés Guido Grillo, Santiago Libonati
 
+Grupo 13: Julian Paz, Ernesto Savio
+
 Grupo 16: Dallas Cañari, Sebastián Santos
