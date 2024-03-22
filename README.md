@@ -1,6 +1,6 @@
 # grupos
 
-Docente: Erica Vidal, Taihú Pire
+Docentes: Taihú Pire, Erica Vidal, Juan Ignacio Farizano, Ezequiel Bisiach
 
 Grupo 1: Fabrizio Mettini, Matias Raimundez
 
